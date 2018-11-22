@@ -1,7 +1,10 @@
 # vue-ehub
 
 > A Vue.js project
-
+```
+A website to display services provided by the entertainment hub.
+link => http://e-hub.com.my/#/home
+```
 ## Build Setup
 
 ``` bash
